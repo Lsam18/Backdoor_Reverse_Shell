@@ -33,19 +33,13 @@ This project is a comprehensive Remote Access Tool designed for ethical use in c
    cd Backdoor_Reverse_Shell
    ```
 
-2. **Install Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Server**
+2. **Run the Server**
 
    ```bash
    python3 server.py
    ```
 
-4. **Build the Target Executable**
+3. **Build the Target Executable**
 
    To convert the client script into an executable, use a tool like PyInstaller:
 
@@ -112,7 +106,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspiration from various open-source projects in the cybersecurity domain.
-- Special thanks to the contributors and the open-source community for their valuable resources and support.
+- Special thanks to the open-source community for their valuable resources and support.
 
 ---
 
